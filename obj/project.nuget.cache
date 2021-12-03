@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AwVVHy7eicr4DEyYuTkLGNFSW/Pnhicfo70HH3xXDW3EPW6utyTpKsG64PtqmZHSPGgJJoS9jmfJpRhpa/P76w==",
+  "dgSpecHash": "3OhuRRGuO67mLpm11oe/kS8IovoVUfqlkLcXL8bwk+UvzNBbNwu/D8XkPS2rex+BsZQha7l8u8iRsK6Ti/VGkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KAHLA-SSD\\source\\repos\\Catalog\\Catalog.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\KAHLA-SSD\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\KAHLA-SSD\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\KAHLA-SSD\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\KAHLA-SSD\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\KAHLA-SSD\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\KAHLA-SSD\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\mutlu.ozkurt\\Downloads\\Net5\\New folder (2)\\.Net5Tutorial-main\\build.proj",
+  "expectedPackageFiles": [],
   "logs": []
 }
