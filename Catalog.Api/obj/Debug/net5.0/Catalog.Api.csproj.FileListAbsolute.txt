@@ -41,3 +41,91 @@ C:\Users\mutlu.ozkurt\Downloads\Net5\New folder (2)\.Net5Tutorial-main\Catalog.A
 C:\Users\mutlu.ozkurt\Downloads\Net5\New folder (2)\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\ref\Catalog.Api.dll
 C:\Users\mutlu.ozkurt\Downloads\Net5\New folder (2)\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.pdb
 C:\Users\mutlu.ozkurt\Downloads\Net5\New folder (2)\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.genruntimeconfig.cache
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.StaticWebAssets.xml
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.exe
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.deps.json
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.runtimeconfig.json
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.runtimeconfig.dev.json
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\ref\Catalog.Api.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.pdb
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\DnsClient.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.csproj.AssemblyReference.cache
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.AssemblyInfoInputs.cache
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.AssemblyInfo.cs
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\scopedcss\bundle\Catalog.Api.styles.css
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\staticwebassets\Catalog.Api.StaticWebAssets.Manifest.cache
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.RazorTargetAssemblyInfo.cache
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.csproj.CopyComplete
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\ref\Catalog.Api.dll
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.pdb
+C:\Users\KAHLA-SSD\Desktop\projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.genruntimeconfig.cache
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.StaticWebAssets.xml
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.exe
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.deps.json
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.runtimeconfig.json
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.runtimeconfig.dev.json
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\ref\Catalog.Api.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Catalog.Api.pdb
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\DnsClient.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.csproj.AssemblyReference.cache
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.AssemblyInfoInputs.cache
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.AssemblyInfo.cs
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\scopedcss\bundle\Catalog.Api.styles.css
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\staticwebassets\Catalog.Api.StaticWebAssets.Manifest.cache
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.RazorTargetAssemblyInfo.cache
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.csproj.CopyComplete
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\ref\Catalog.Api.dll
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.pdb
+C:\Users\KAHLA-SSD\Desktop\interview projects\Net5Tutorial-main\.Net5Tutorial-main\Catalog.Api\obj\Debug\net5.0\Catalog.Api.genruntimeconfig.cache
